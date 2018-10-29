@@ -1,7 +1,7 @@
 <template>
     <div>
     <h1>The User Page</h1>
-    <p>Loaded Id {{ id }} </p>
+    <p>Loaded the page of user {{ id }} </p>
     <button class="btn btn-primary" @click="navigateToHome" >Go to Home</button>
     </div>
 </template>
